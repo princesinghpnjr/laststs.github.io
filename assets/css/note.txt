@@ -1,0 +1,65 @@
+.page-title-area{
+                    position:relative;
+                    padding-top:240px;
+                    padding-bottom:150px;
+                    text-align:center;
+                    z-index:1;
+                    background-color:#0e0129
+                }
+                .page-title-area::before{
+                    content:"";
+                    position:absolute;
+                    top:0;
+                    left:0;
+                    width:100%;
+                    height:100%;
+                    z-index:-1;
+                    background-image:url(../img/page-bg/page-bg.png);
+                    background-position:center center;
+                    background-repeat:no-repeat;
+                    background-size:cover;
+                    -webkit-animation:FocuS 1s linear 1s infinite;
+                    animation:FocuS 1s linear 1s infinite
+                }
+                .page-title-area .page-title-content h2{
+                    margin-bottom:15px;
+                    color:#fff;
+                    font-size:40px;
+                    font-weight:700
+                }
+                .page-title-area .page-title-content ul{
+                    padding-left:0;
+                    list-style-type:none;
+                    margin-top:10px;
+                    margin-bottom:0
+                }
+                .page-title-area .page-title-content ul li{
+                    display:inline-block;
+                    position:relative;
+                    font-size:15px;
+                    font-weight:500;
+                    padding-right:15px;
+                    padding-left:15px;
+                    color:#fff
+                }
+                .page-title-area .page-title-content ul li::before{
+                    content:"";
+                    position:absolute;
+                    top:10px;
+                    right:-7px;
+                    background-color:#d80650;
+                    width:10px;
+                    height:10px
+                }
+                .page-title-area .page-title-content ul li:last-child::before{
+                    display:none
+                }
+                .page-title-area .page-title-content ul li a{
+                    color:#fff
+                }
+                .page-title-area .page-title-content ul li a:hover{
+                    color:#d80650
+                }
+                .page-title-area .page-title-content ul .active{
+                    color:#d80650
+                }
