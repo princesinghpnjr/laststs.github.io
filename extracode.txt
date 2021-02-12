@@ -1,0 +1,30 @@
+
+<section class="security-area-two pt-100 pb-70">
+    <div class="container">
+        <div class="section-title white-title">
+            <h2>Mobile Application Penetration Testing</h2>
+        </div>
+        <p class="new"><i class="bx bx-chevrons-right"></i>Secure your mobile application before launching to any plateform with StepToSecure.We assume that the Penetration Teasting is the first line of defence towards the security. Last couple of year we have performed multiple security analysis on Mobile Applications
+            This experience has offered our group tremendous openness to a very wide scope of situations that may prompt weaknesses in versatile applications. In this way, we engage in each progression of your SDLC, installing security into your association's DNA. We computerize whatever can be robotized as far as pen testing. We also convey various sorts of instruments that assailants use. Our group additionally uses careful manual infiltration testing approaches that guarantee manual testing of each angle from the point of view of a continuous assailant.
+        </p>
+    </div>
+</section>
+
+
+<section class="complete-area ptb-100">
+    <div class="container-fluid">
+    <div class="row">
+    <div class="col-lg-6 pl-0">
+    <div class="complete-img">
+    </div>
+    </div>
+    <div class="col-lg-6">
+    <div class="complete-content">
+    <h2>The most Complete and Effective Protection for Your Home and Office</h2>
+    <p>Your Content goes here!!!Your Content goes here!!!Your Content goes here!!!</p>
+    </div>
+    </div>
+    <div class="complete-shape">
+    <img src="assets/img/complete-shape.png" alt="Image">
+    </div>
+    </section>
