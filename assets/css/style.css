@@ -1593,7 +1593,8 @@ textarea.form-control{
                     padding-right:0
                 }
                 .cybersecurity-area.cybersecurity-area-styele-two .col-lg-6.pl-0{
-                    padding-left:0
+                    padding-left:0;
+                    padding-top: 70px;
                 }
                 .cybersecurity-area.cybersecurity-area-styele-two .cybersecurity-content{
                     margin-left:0;margin-right:auto
@@ -1601,7 +1602,9 @@ textarea.form-control{
                 .cybersecurity-content{
                     max-width:545px;
                     margin-left:auto;
-                    margin-top:-8px
+                    margin-top:-8px;
+                    padding-top: 70px;
+                    
                 }
                 .cybersecurity-content h2{
                     font-size:40px;
@@ -1675,7 +1678,7 @@ textarea.form-control{
                     height:100%
                 }
                 .cybersecurity-img.bg-2{
-                    background-image:url(../img/cybersecurity-img-2.jpg)
+                    background-image:url(../img/solution-img/security-vulnerability-screen.jpg)
                 }
                 .cybersecurity-img.bg-3{
                     background-image:url(../img/cybersecurity-img-3.jpg)
@@ -1852,6 +1855,7 @@ textarea.form-control{
                 .footer-bottom-area .copy-right p{
                     text-transform:capitalize;
                     margin-bottom:0;
+                    margin-left: 300px;
                     color:#fff
                 }
                 .footer-bottom-area .copy-right p i{
@@ -1865,6 +1869,7 @@ textarea.form-control{
                     color:#d80650
                 }
                 .footer-bottom-area .condition-privacy{
+                    color: #fff;
                     float:right
                 }
                 .footer-bottom-area .condition-privacy ul li{
@@ -7244,4 +7249,12 @@ textarea.form-control{
    display: none; 
   }
 
+}
+
+
+.new{
+    color: #fff;
+}
+.new i{
+    color: #ff4800;
 }
