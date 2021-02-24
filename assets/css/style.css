@@ -1241,7 +1241,7 @@ textarea.form-control{
                 background-position:center center;
                 background-repeat:no-repeat;
                 background-size:cover;
-                height:400px;
+                height:330px;
                 position:relative;
                 z-index:1;
                 margin-bottom:30px;
@@ -1249,6 +1249,15 @@ textarea.form-control{
                 -webkit-transition:all .5s;
                 transition:all .5s
             }
+            
+            .single-solutions .logo-hack {
+                width: 150px;
+                height: 150px;
+                
+                
+                
+            }
+
             .single-solutions.solutions-time-bg-1{
                 background-image:url(../img/solution-img/1.jpg)
             }
@@ -1268,10 +1277,10 @@ textarea.form-control{
                     background-image:url(../img/solution-img/6.jpg)
                 }
                 .single-solutions.solutions-time-bg-7{
-                    background-image:url(../img/project/1.jpg)
+                    background-image:url(../img/solution-img/4.jpg)
                 }
                 .single-solutions.solutions-time-bg-8{
-                    background-image:url(../img/project/2.jpg)
+                    background-image:url(../img/solution-img/2.jpg)
                 }
                 .single-solutions.solutions-time-bg-9{
                     background-image:url(../img/project/3.jpg)
@@ -7517,3 +7526,17 @@ textarea.form-control{
 }
 
 
+.contain1 {
+  margin: 0 auto;
+  max-width: 1000px;
+  width: 100%;
+}
+
+.item1 {
+  align-items: center;
+  background-color: tomato;
+  color: white;
+  display: flex;
+  height: 300px;
+  justify-content: center;
+}
